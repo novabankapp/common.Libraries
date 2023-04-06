@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Common.Libraries.Services.Flurl</id>
+    <version>1.2.0</version>
+    <authors>Lewis Msasa</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Common.Libraries.Services" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="Flurl" version="3.0.4" exclude="Build,Analyzers" />
+        <dependency id="Flurl.Http" version="3.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Flurl\bin\Debug\net6.0\Common.Libraries.Services.Flurl.dll" target="lib\net6.0\Common.Libraries.Services.Flurl.dll" />
+  </files>
+</package>

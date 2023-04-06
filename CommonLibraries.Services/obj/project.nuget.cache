@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "soL5K2PBgxPExA+TXT3u1ix0klgKEMP6dsb+IhrlvyukJ/8EB6mzScR2vd41ZlhYUbMsXDB91Er5VUMYXFBUgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.Services\\Common.Libraries.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\bin\Debug\net6.0\Common.Libraries.Saga.Data.deps.json
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\bin\Debug\net6.0\Common.Libraries.Saga.Data.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\bin\Debug\net6.0\Common.Libraries.Saga.Data.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\bin\Debug\net6.0\Common.Libraries.Services.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\bin\Debug\net6.0\Common.Libraries.Services.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.csproj.CopyComplete
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\refint\Common.Libraries.Saga.Data.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\Common.Libraries.Saga.Data.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data\obj\Debug\net6.0\ref\Common.Libraries.Saga.Data.dll

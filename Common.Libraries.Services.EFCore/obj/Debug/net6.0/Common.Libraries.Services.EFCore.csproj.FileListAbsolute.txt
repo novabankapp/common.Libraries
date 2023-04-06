@@ -1,0 +1,12 @@
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\bin\Debug\net6.0\Common.Libraries.Services.EFCore.deps.json
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\bin\Debug\net6.0\Common.Libraries.Services.EFCore.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\bin\Debug\net6.0\Common.Libraries.Services.EFCore.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\Common.Libraries.Services.EFCore.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\Common.Libraries.Services.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\Common.Libraries.Services.EFCore.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\Common.Libraries.Services.EFCore.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\Common.Libraries.Services.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\Common.Libraries.Services.EFCore.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\refint\Common.Libraries.Services.EFCore.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\Common.Libraries.Services.EFCore.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\obj\Debug\net6.0\ref\Common.Libraries.Services.EFCore.dll

@@ -1,0 +1,17 @@
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\bin\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.deps.json
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\bin\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\bin\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\bin\Debug\net6.0\Common.Libraries.Saga.Data.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\bin\Debug\net6.0\Common.Libraries.Services.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\bin\Debug\net6.0\Common.Libraries.Saga.Data.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\bin\Debug\net6.0\Common.Libraries.Services.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.csproj.CopyComplete
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\refint\Common.Libraries.Saga.Data.EFCore.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\Common.Libraries.Saga.Data.EFCore.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Saga.Data.EFCore\obj\Debug\net6.0\ref\Common.Libraries.Saga.Data.EFCore.dll

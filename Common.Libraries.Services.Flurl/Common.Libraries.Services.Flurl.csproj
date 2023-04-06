@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Lewis Msasa</Authors>
+    <Version>1.2.0</Version>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Common.Libraries.Services" Version="1.2.0" />
+		<PackageReference Include="Flurl" Version="3.0.4" />
+		<PackageReference Include="Flurl.Http" Version="3.2.0" />
+	</ItemGroup>
+
+  
+
+</Project>

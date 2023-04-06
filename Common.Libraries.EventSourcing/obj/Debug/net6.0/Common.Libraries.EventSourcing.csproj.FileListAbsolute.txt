@@ -1,0 +1,12 @@
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\bin\Debug\net6.0\Common.Libraries.EventSourcing.deps.json
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\bin\Debug\net6.0\Common.Libraries.EventSourcing.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\bin\Debug\net6.0\Common.Libraries.EventSourcing.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\Common.Libraries.EventSourcing.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\Common.Libraries.EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\Common.Libraries.EventSourcing.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\Common.Libraries.EventSourcing.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\Common.Libraries.EventSourcing.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\Common.Libraries.EventSourcing.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\refint\Common.Libraries.EventSourcing.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\Common.Libraries.EventSourcing.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventSourcing\obj\Debug\net6.0\ref\Common.Libraries.EventSourcing.dll

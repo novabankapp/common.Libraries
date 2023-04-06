@@ -1,0 +1,12 @@
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\bin\Debug\net6.0\Common.Libraries.Services.deps.json
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\bin\Debug\net6.0\Common.Libraries.Services.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\bin\Debug\net6.0\Common.Libraries.Services.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\Common.Libraries.Services.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\Common.Libraries.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\Common.Libraries.Services.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\Common.Libraries.Services.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\Common.Libraries.Services.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\Common.Libraries.Services.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\refint\Common.Libraries.Services.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\Common.Libraries.Services.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\CommonLibraries.Services\obj\Debug\net6.0\ref\Common.Libraries.Services.dll

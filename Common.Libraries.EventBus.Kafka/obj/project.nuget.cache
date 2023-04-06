@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dasfdlH60IbODx+Tur7vlRIBr7JYALCnCfgVW5ljd1o0GVvDgV3wr+WuS4YAV1q9h3hqQEK1GmoOwEHO9UC+UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.Kafka\\Common.Libraries.EventBus.Kafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.eventbus\\1.0.0\\common.libraries.eventbus.1.0.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

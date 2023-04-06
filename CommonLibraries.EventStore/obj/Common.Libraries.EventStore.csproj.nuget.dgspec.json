@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.EventStore\\Common.Libraries.EventStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventSourcing\\Common.Libraries.EventSourcing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventSourcing\\Common.Libraries.EventSourcing.csproj",
+        "projectName": "Common.Libraries.EventSourcing",
+        "projectPath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventSourcing\\Common.Libraries.EventSourcing.csproj",
+        "packagesPath": "C:\\Users\\msasa.l\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventSourcing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\msasa.l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\msasa.l\\source\\repos\\NugetRepo\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CacheManager.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "DeepCloner": {
+              "target": "Package",
+              "version": "[0.10.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.EventStore\\Common.Libraries.EventStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.EventStore\\Common.Libraries.EventStore.csproj",
+        "projectName": "Common.Libraries.EventStore",
+        "projectPath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.EventStore\\Common.Libraries.EventStore.csproj",
+        "packagesPath": "C:\\Users\\msasa.l\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.EventStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\msasa.l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\msasa.l\\source\\repos\\NugetRepo\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventSourcing\\Common.Libraries.EventSourcing.csproj": {
+                "projectPath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventSourcing\\Common.Libraries.EventSourcing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[22.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
