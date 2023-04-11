@@ -13,7 +13,9 @@ namespace Common.Libraries.EventBus.Kafka.IoC
     {
         public static void RegisterServices(IServiceCollection services, IConfiguration Configuration)
         {
-            var producerConfig = new ProducerConfig(new ClientConfig
+			
+
+			var producerConfig = new ProducerConfig(new ClientConfig
             {
                 BootstrapServers = Configuration["Kafka:ClientConfigs:BootstrapServers"]
             });
