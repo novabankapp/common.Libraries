@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyLufuj4zuscbK36USgG2zNJpoIXJwZyOMVwXs+9KnAbS4FkvPEoTdm9lhoCZS+12rRUxLm8q+zcSnbArfqAbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.Bus.Mediatr\\Common.Libraries.EventBus.Bus.Mediatr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msasa.l\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.eventbus\\1.0.0\\common.libraries.eventbus.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

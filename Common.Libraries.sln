@@ -45,7 +45,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Libraries.Saga.Data.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{63F53406-8CE7-42FB-A927-1C45989219AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Libraries.Services.Cassandra", "Common.Libraries.Services.Cassandra\Common.Libraries.Services.Cassandra.csproj", "{9EB69A15-1BA3-4918-B1C8-9AF3E1DF278D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Libraries.Services.Cassandra", "Common.Libraries.Services.Cassandra\Common.Libraries.Services.Cassandra.csproj", "{9EB69A15-1BA3-4918-B1C8-9AF3E1DF278D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
