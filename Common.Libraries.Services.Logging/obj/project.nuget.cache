@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ClIhQO4/3Zs+Q1c8iDsYG/nhnPlUFj5skIp4r5rMQwB2Hvv1jmU46hJhazB1I6pcrcC1wt6MCmasWNCFge/dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Logging\\Common.Libraries.Services.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
