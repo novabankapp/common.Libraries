@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KCfhOfblFJQ+0unq56NtmfRJHCTlgL0hZ/oFTZ8gOAcWr7yzMjUPeTXctD4fh27MJz8UcgnLMhKHBQDDBFS+0Q==",
+  "dgSpecHash": "yXpkRDwCjiYfMol13bW2fNs+3uKMDlx4fjxwcFDiac48V18do7fOnN4UKWwyTc8ldtolcUMGnNhGDMRjxczpRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventStore.Projection.Cassandra\\Common.Libraries.EventStore.Projection.Cassandra.csproj",
   "expectedPackageFiles": [

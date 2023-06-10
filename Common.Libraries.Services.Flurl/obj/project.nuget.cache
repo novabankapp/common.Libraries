@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/Kkryjtfm17ZTZNWj+fdYjvGsCswSXWMuFQ4ldkBWXBQlf6ciBfDopfTIRjNoezVXJGyWYDXpozElpYOLP5ebw==",
+  "dgSpecHash": "rS3QjvbdVty3YnKYm39g7TQNDL1vutVXBu2uBsq3kMybvd2bNvKck54r0r83HXYYzCrSIhO+tOfsqFuMD4g3Bg==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Flurl\\Common.Libraries.Services.Flurl.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.services\\1.2.0\\common.libraries.services.1.2.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.services\\1.2.2\\common.libraries.services.1.2.2.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\flurl\\3.0.4\\flurl.3.0.4.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\flurl.http\\3.2.0\\flurl.http.3.2.0.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

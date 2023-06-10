@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OKz3WszPceqA1rutSIq26SnIZomyT8lYozX8vQtpp7gV+JAadMTehrL4tzDx7s7ytDFn1FmmjsmPq0bbCvHwxw==",
+  "dgSpecHash": "AKx3ZL9hnoX83iz3OgrLA3gNyTItdtvgIChrOQJKjb0nVyjKHG3eGMvvlIgiZvGWHSQa6bq/jqQ7oLhxZ9/IgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Saga.Data.EFCore\\Common.Libraries.Saga.Data.EFCore.csproj",
   "expectedPackageFiles": [
@@ -24,7 +24,8 @@
     "C:\\Users\\msasa.l\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\msasa.l\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.services\\1.2.2\\common.libraries.services.1.2.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,9 +6,9 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Common.Libraries.Services.Flurl/1.2.1": {
+      "Common.Libraries.Services.Flurl/1.2.2": {
         "dependencies": {
-          "Common.Libraries.Services": "1.2.0",
+          "Common.Libraries.Services": "1.2.2",
           "Flurl": "3.0.4",
           "Flurl.Http": "3.2.0"
         },
@@ -16,15 +16,15 @@
           "Common.Libraries.Services.Flurl.dll": {}
         }
       },
-      "Common.Libraries.Services/1.2.0": {
+      "Common.Libraries.Services/1.2.2": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.Extensions.Logging.Abstractions": "6.0.3"
         },
         "runtime": {
           "lib/net6.0/Common.Libraries.Services.dll": {
-            "assemblyVersion": "1.2.0.0",
-            "fileVersion": "1.2.0.0"
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
           }
         }
       },
@@ -113,17 +113,17 @@
     }
   },
   "libraries": {
-    "Common.Libraries.Services.Flurl/1.2.1": {
+    "Common.Libraries.Services.Flurl/1.2.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Common.Libraries.Services/1.2.0": {
+    "Common.Libraries.Services/1.2.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-vmpfPSAkz7pFu/nBfdRmjg/EwaUrUa/eYBXpiSaHqy8S77KeE/jqsgM2HdB8T7KZ6c+AURS7dWdLqJvWigg8oA==",
-      "path": "common.libraries.services/1.2.0",
-      "hashPath": "common.libraries.services.1.2.0.nupkg.sha512"
+      "sha512": "sha512-I3dSMv3CObMVtfNt9MFcG5CvneGloMP5jpIqmxU0p04KTL1uTlJ4CCBTlKiBVii41g7ZgOZIZVQl0xiyZDLAtA==",
+      "path": "common.libraries.services/1.2.2",
+      "hashPath": "common.libraries.services.1.2.2.nupkg.sha512"
     },
     "Flurl/3.0.4": {
       "type": "package",

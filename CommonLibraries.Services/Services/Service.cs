@@ -113,5 +113,10 @@ namespace Common.Libraries.Services.Services
             }
             return res;
         }
+
+        public Task<int> CountAsync(Expression<Func<T, bool>> predicate = null)
+        {
+            return _repository.CountAsync(predicate);
+        }
     }
 }

@@ -253,7 +253,7 @@
     "C:\\Users\\msasa.l\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.2.0",
+    "version": "1.2.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.Services\\Common.Libraries.Services.csproj",
       "projectName": "Common.Libraries.Services",
@@ -271,7 +271,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\msasa.l\\source\\repos\\NugetRepo\\packages": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/novabankapp/index.json": {}
       },
       "frameworks": {
         "net6.0": {

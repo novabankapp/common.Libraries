@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FwL9bGQEUIX/irEIAnTaiHAW9dUfENtX7GweTgN4kkiZSxJbxNSgH+O8ufvTmWBHhmHKslVoKWCOuS67MSAH2g==",
+  "dgSpecHash": "PXncU/2JdpwfsMh45LcGqWa4QhLPlK9CNy2F1om07uLwgoKc1+F8lyj/BofPqpO6qUUkOC8sEsZKFQMZQLUbrA==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Saga.Data\\Common.Libraries.Saga.Data.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
-    "C:\\Users\\msasa.l\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.services\\1.2.2\\common.libraries.services.1.2.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -179,5 +179,12 @@ namespace Common.Libraries.Services.EFCore.Repositories
             return await query.ToListAsync();
         }
 
+        public async Task<int> CountAsync(Expression<Func<T, bool>> predicate = null)
+        {
+           if(predicate != null)
+             return await _dbContext.Set<T>().CountAsync(predicate);
+           else
+             return await _dbContext.Set<T>().CountAsync();
+        }
     }
 }

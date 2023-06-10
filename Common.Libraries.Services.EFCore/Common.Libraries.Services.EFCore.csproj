@@ -5,11 +5,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>Lewis Msasa</Authors>
-    <Version>1.2.0</Version>
+    <Version>1.2.2</Version>
   </PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Common.Libraries.Services" Version="1.2.0" />
+		<PackageReference Include="Common.Libraries.Services" Version="1.2.1" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.15" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.15" />
 	</ItemGroup>

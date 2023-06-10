@@ -44,7 +44,7 @@ namespace Common.Libraries.Services.Repositories
            string[] includeString = null,
            bool disableTracking = true);
 
-
+        Task<int> CountAsync(Expression<Func<T, bool>> predicate = null);
 
         Task<T> AddAsync(T entity);
 

@@ -23,8 +23,9 @@ namespace Common.Libraries.EventBus.Kafka.Client
         {
             await Task.Run(() =>
             {
-                _consumer.Dispose();
                 _consumer.Close();
+                _consumer.Dispose();
+                
             });
         }
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lQKsCbLO7myh7REaEw3WIHbubUcR6zZ8+9nroklvVI5Jt2tdoMkDxauHeL97ba8s5SSLrHwozFcfepxTygPJHw==",
+  "dgSpecHash": "CvvmqLYWCBL0hyF8cIco8Bn4X5IoY5j2dZXG/K2BW0YKMgCVkf8+xB1BCQttBTtxkwKuNTAGcdhvre9Px5CN2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.Kafka\\Common.Libraries.EventBus.Kafka.csproj",
   "expectedPackageFiles": [

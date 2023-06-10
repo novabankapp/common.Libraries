@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cwGJqkEly8x+HVTeesXHR358TN8n5UPiOJtV90kJWdp50jFto/znC4PZdwtIPR3ORKcok6WocEZS8UG37x0RIw==",
+  "dgSpecHash": "02TavqIN3v4knkjnYu7HtOLHcMETMjam34zXghYQZyInTbapZ4AFz/PXgFByV0cM6GvArsP8kFxuH3aIyoRIXg==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.EventStore\\Common.Libraries.EventStore.csproj",
   "expectedPackageFiles": [

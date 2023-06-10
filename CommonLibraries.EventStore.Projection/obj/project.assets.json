@@ -1451,7 +1451,7 @@
           "bin/placeholder/Common.Libraries.EventStore.dll": {}
         }
       },
-      "Common.Libraries.Services/1.2.0": {
+      "Common.Libraries.Services/1.2.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -5112,7 +5112,7 @@
       "path": "../CommonLibraries.EventStore/Common.Libraries.EventStore.csproj",
       "msbuildProject": "../CommonLibraries.EventStore/Common.Libraries.EventStore.csproj"
     },
-    "Common.Libraries.Services/1.2.0": {
+    "Common.Libraries.Services/1.2.2": {
       "type": "project",
       "path": "../CommonLibraries.Services/Common.Libraries.Services.csproj",
       "msbuildProject": "../CommonLibraries.Services/Common.Libraries.Services.csproj"
@@ -5122,7 +5122,7 @@
     "net6.0": [
       "Common.Libraries.EventSourcing >= 1.0.0",
       "Common.Libraries.EventStore >= 1.0.0",
-      "Common.Libraries.Services >= 1.2.0"
+      "Common.Libraries.Services >= 1.2.2"
     ]
   },
   "packageFolders": {
@@ -5147,7 +5147,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\msasa.l\\source\\repos\\NugetRepo\\packages": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/novabankapp/index.json": {}
       },
       "frameworks": {
         "net6.0": {

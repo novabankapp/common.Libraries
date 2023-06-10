@@ -12,7 +12,7 @@ namespace Common.Libraries.Services.Services
 {
     public interface IService<T, TD> where T : IEntity where TD : IDTO 
     {
-
+        Task<int> CountAsync(Expression<Func<T, bool>> predicate = null);
         Task<T> GetOneAsync(Expression<Func<T, bool>> predicate = null,
             Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
             string[] includeString = null,
