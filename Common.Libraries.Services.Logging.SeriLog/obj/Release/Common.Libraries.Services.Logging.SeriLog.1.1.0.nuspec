@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Common.Libraries.Services.Logging.SeriLog</id>
+    <version>1.1.0</version>
+    <authors>Lewis Msasa</authors>
+    <description>For common services</description>
+    <repository url="https://github.com/novabankapp/common.Libraries" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.Hosting.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.AspNetCore" version="6.1.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.Environment" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Elasticsearch" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.File" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\bin\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.dll" target="lib\net6.0\Common.Libraries.Services.Logging.SeriLog.dll" />
+  </files>
+</package>

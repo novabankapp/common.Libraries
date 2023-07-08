@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "28MZcMpUxDMLeZLIOKByUCHvKqtzdTQ8opX2njPaz2jlnCuuAy/KZ2BPw7d5tSJ7HukqYHvm3AsDzWn/9BkkLw==",
+  "dgSpecHash": "Gphm1Ujur7HTLi0fF4D3z2FtfmkgZ93BkpHojat1PnMuNrgZpWJpl+5h/JpQRT3ipVVQbDXkAj4hmjmTdsSXPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.EFCore\\Common.Libraries.Services.EFCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.services\\1.2.1\\common.libraries.services.1.2.1.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.services\\1.2.4\\common.libraries.services.1.2.4.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.15\\microsoft.entityframeworkcore.6.0.15.nupkg.sha512",

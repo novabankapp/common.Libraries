@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Common.Libraries.Services.Mongo</id>
+    <version>1.1.1</version>
+    <authors>Common.Libraries.Services.Mongo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Common.Libraries.Services" version="1.2.3" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.19.2" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver.Core" version="2.19.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Mongo\bin\Release\net6.0\Common.Libraries.Services.Mongo.dll" target="lib\net6.0\Common.Libraries.Services.Mongo.dll" />
+  </files>
+</package>

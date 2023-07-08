@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.Services\\Common.Libraries.Services.csproj": {
-      "version": "1.2.2",
+      "version": "1.2.5",
       "restore": {
         "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\CommonLibraries.Services\\Common.Libraries.Services.csproj",
         "projectName": "Common.Libraries.Services",
@@ -46,9 +46,37 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[6.0.3, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "OpenTelemetry.Exporter.Zipkin": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.0.0-rc9.4, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.0-rc9.4, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.0.0-rc9.4, )"
             }
           },
           "imports": [

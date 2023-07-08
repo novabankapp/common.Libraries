@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0m5UVN/0IS8Py5vMtGrOO/gUJJKh1t4s+/D8z/agF+2M4V3bUTaYeQJIxPeNdScPrwZCSiHtjCH2AZMShQNs2A==",
+  "dgSpecHash": "XCmJCTBmosdRlHrJ+hlcC2M9Nvt3c5AhhYc+kuq5gu9S0CjJN9ZffHdRt3FMqABquXTvPFBgaSX8feqEEd10Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.RabbitMQ\\Common.Libraries.EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [
@@ -14,8 +14,7 @@
     "C:\\Users\\msasa.l\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\msasa.l\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.eventbus\\1.1.1\\common.libraries.eventbus.1.1.1.nupkg.sha512"
+    "C:\\Users\\msasa.l\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

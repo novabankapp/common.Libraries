@@ -5,10 +5,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>Lewis Msasa</Authors>
-    <Version>1.2.2</Version>
+    <Version>1.2.3</Version>
+	<Company>NovaBank</Company>
+	<PackageDescription>For common Entity Framework services</PackageDescription>
+	<RepositoryUrl>https://github.com/novabankapp/common.Libraries</RepositoryUrl>
   </PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Common.Libraries.Services" Version="1.2.2" />
+		<PackageReference Include="Common.Libraries.Services" Version="1.2.3" />
 		<PackageReference Include="Flurl" Version="3.0.4" />
 		<PackageReference Include="Flurl.Http" Version="3.2.0" />
 	</ItemGroup>

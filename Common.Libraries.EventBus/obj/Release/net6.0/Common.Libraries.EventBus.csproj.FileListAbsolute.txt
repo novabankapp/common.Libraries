@@ -1,0 +1,12 @@
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\bin\Release\net6.0\Common.Libraries.EventBus.deps.json
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\bin\Release\net6.0\Common.Libraries.EventBus.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\bin\Release\net6.0\Common.Libraries.EventBus.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\Common.Libraries.EventBus.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\Common.Libraries.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\Common.Libraries.EventBus.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\Common.Libraries.EventBus.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\Common.Libraries.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\Common.Libraries.EventBus.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\refint\Common.Libraries.EventBus.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\Common.Libraries.EventBus.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.EventBus\obj\Release\net6.0\ref\Common.Libraries.EventBus.dll

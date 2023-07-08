@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Mongo\\Common.Libraries.Services.Mongo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Mongo\\Common.Libraries.Services.Mongo.csproj": {
+      "version": "1.1.4",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Mongo\\Common.Libraries.Services.Mongo.csproj",
+        "projectName": "Common.Libraries.Services.Mongo",
+        "projectPath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Mongo\\Common.Libraries.Services.Mongo.csproj",
+        "packagesPath": "C:\\Users\\msasa.l\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Mongo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\msasa.l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\msasa.l\\source\\repos\\NugetRepo\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/novabankapp/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Common.Libraries.Services": {
+              "target": "Package",
+              "version": "[1.2.5, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

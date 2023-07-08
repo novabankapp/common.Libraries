@@ -14,10 +14,10 @@ namespace Common.Libraries.Services.Cassandra.Repositories
 {
     public class CassandraRepository<T, Session> : IRepository<T> where T : class, IEntity where Session : ISession
     {
-        private ISession _session;
+        private Session _session;
         private IMapper _mapper;
         private Table<T> _table;
-        public CassandraRepository(ISession session)
+        public CassandraRepository(Session session)
         {
             _session = session;
             _mapper = new Mapper(_session);

@@ -131,7 +131,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Common.Libraries.EventBus/1.1.1": {
+      "Common.Libraries.EventBus/1.1.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -421,7 +421,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Common.Libraries.EventBus/1.1.1": {
+    "Common.Libraries.EventBus/1.1.2": {
       "type": "project",
       "path": "../Common.Libraries.EventBus/Common.Libraries.EventBus.csproj",
       "msbuildProject": "../Common.Libraries.EventBus/Common.Libraries.EventBus.csproj"
@@ -429,7 +429,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Common.Libraries.EventBus >= 1.1.1",
+      "Common.Libraries.EventBus >= 1.1.2",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 6.0.0",
       "Newtonsoft.Json >= 13.0.3",

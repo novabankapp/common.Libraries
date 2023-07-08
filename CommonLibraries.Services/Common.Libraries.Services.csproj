@@ -4,8 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Company>Lewis Msasa</Company>
-    <Version>1.2.2</Version>
+    <Version>1.2.5</Version>
+	<Authors>Lewis Msasa</Authors>
+	<Company>NovaBank</Company>
+	<PackageDescription>For common services</PackageDescription>
+	<RepositoryUrl>https://github.com/novabankapp/common.Libraries</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,7 +17,14 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.3" />
+    <PackageReference Include="OpenTelemetry.Exporter.Console" Version="1.5.1" />
+    <PackageReference Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.5.1" />
+	<PackageReference Include="OpenTelemetry.Exporter.Zipkin" Version="1.5.1" />
+	<PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.0.0-rc9.4" />
+	<PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.0.0-rc9.4" />
+	<PackageReference Include="OpenTelemetry.Instrumentation.Http" Version="1.0.0-rc9.4" />
   </ItemGroup>
 
   

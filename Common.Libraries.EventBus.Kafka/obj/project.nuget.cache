@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CvvmqLYWCBL0hyF8cIco8Bn4X5IoY5j2dZXG/K2BW0YKMgCVkf8+xB1BCQttBTtxkwKuNTAGcdhvre9Px5CN2g==",
+  "dgSpecHash": "2Qaw+8lg6PRHGopZZzkcbNqPJFX3f3X8pTOLJEL9/4Ha8fh6Mub6K0iXw0ragUtEZYobubtxm/uV/rNH9ZyrXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.Kafka\\Common.Libraries.EventBus.Kafka.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.eventbus\\1.1.1\\common.libraries.eventbus.1.1.1.nupkg.sha512",
+    "C:\\Users\\msasa.l\\.nuget\\packages\\common.libraries.eventbus\\1.1.2\\common.libraries.eventbus.1.1.2.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
     "C:\\Users\\msasa.l\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",

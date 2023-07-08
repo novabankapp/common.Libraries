@@ -1,0 +1,12 @@
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\bin\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.deps.json
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\bin\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\bin\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\refint\Common.Libraries.Services.Logging.SeriLog.dll
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\Common.Libraries.Services.Logging.SeriLog.pdb
+C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.Logging.SeriLog\obj\Release\net6.0\ref\Common.Libraries.Services.Logging.SeriLog.dll

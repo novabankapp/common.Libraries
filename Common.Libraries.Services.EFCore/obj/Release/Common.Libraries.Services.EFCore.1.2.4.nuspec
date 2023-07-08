@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Common.Libraries.Services.EFCore</id>
+    <version>1.2.4</version>
+    <authors>Lewis Msasa</authors>
+    <description>For common Entity Framework services</description>
+    <repository url="https://github.com/novabankapp/common.Libraries" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Common.Libraries.Services" version="1.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="6.0.15" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="6.0.15" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\msasa.l\source\repos\Common.Libraries\Common.Libraries.Services.EFCore\bin\Release\net6.0\Common.Libraries.Services.EFCore.dll" target="lib\net6.0\Common.Libraries.Services.EFCore.dll" />
+  </files>
+</package>

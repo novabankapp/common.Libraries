@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Common.Libraries.Services/1.2.1": {
+      "Common.Libraries.Services/1.2.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
@@ -270,13 +270,13 @@
     }
   },
   "libraries": {
-    "Common.Libraries.Services/1.2.1": {
-      "sha512": "/4oY0CPjymFVRU4UVoz+g6H8NA/RnTym/Fhr+ffLhaHuPuL1/2CaEIxClUSA6qcjZYA8Slg+xAmyPl8HR0gbKg==",
+    "Common.Libraries.Services/1.2.4": {
+      "sha512": "7MzQ/dXJYBtWSajGgcT5WzVIjAzSnm/DNx+14uT6BqSBI5aGFjcdTahQ+sz6XAyA7qh7utIpN2JPVE1FYoguYw==",
       "type": "package",
-      "path": "common.libraries.services/1.2.1",
+      "path": "common.libraries.services/1.2.4",
       "files": [
         ".nupkg.metadata",
-        "common.libraries.services.1.2.1.nupkg.sha512",
+        "common.libraries.services.1.2.4.nupkg.sha512",
         "common.libraries.services.nuspec",
         "lib/net6.0/Common.Libraries.Services.dll"
       ]
@@ -685,7 +685,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Common.Libraries.Services >= 1.2.1",
+      "Common.Libraries.Services >= 1.2.4",
       "Microsoft.EntityFrameworkCore >= 6.0.15",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.15"
     ]
@@ -694,7 +694,7 @@
     "C:\\Users\\msasa.l\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.2.2",
+    "version": "1.2.5",
     "restore": {
       "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.EFCore\\Common.Libraries.Services.EFCore.csproj",
       "projectName": "Common.Libraries.Services.EFCore",
@@ -733,7 +733,7 @@
         "dependencies": {
           "Common.Libraries.Services": {
             "target": "Package",
-            "version": "[1.2.1, )"
+            "version": "[1.2.4, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",

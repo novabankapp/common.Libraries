@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Flurl\\Common.Libraries.Services.Flurl.csproj": {
-      "version": "1.2.2",
+      "version": "1.2.3",
       "restore": {
         "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.Services.Flurl\\Common.Libraries.Services.Flurl.csproj",
         "projectName": "Common.Libraries.Services.Flurl",
@@ -44,7 +44,7 @@
           "dependencies": {
             "Common.Libraries.Services": {
               "target": "Package",
-              "version": "[1.2.2, )"
+              "version": "[1.2.3, )"
             },
             "Flurl": {
               "target": "Package",

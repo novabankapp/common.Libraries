@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Common.Libraries.EventBus/1.1.1": {
+      "Common.Libraries.EventBus/1.1.2": {
         "type": "package",
         "dependencies": {
           "MediatR": "12.0.1"
@@ -229,13 +229,13 @@
     }
   },
   "libraries": {
-    "Common.Libraries.EventBus/1.1.1": {
-      "sha512": "/8Jk9Z7MdVWkV2H7uokZWr0+nuuTkOTY3xdEyRThyNq9Thvp8UYZp2XtO/H38AzcvQ1pHBXxXBOvmRzlHei7JQ==",
+    "Common.Libraries.EventBus/1.1.2": {
+      "sha512": "x1aYtq8WGYdCdC/FKedx7ZWdC6uTFxJYPlvOygw+dUAne+BzwnYGPYfAAmCHbXXq+P+WSIgRHdrrkbGpInc4rw==",
       "type": "package",
-      "path": "common.libraries.eventbus/1.1.1",
+      "path": "common.libraries.eventbus/1.1.2",
       "files": [
         ".nupkg.metadata",
-        "common.libraries.eventbus.1.1.1.nupkg.sha512",
+        "common.libraries.eventbus.1.1.2.nupkg.sha512",
         "common.libraries.eventbus.nuspec",
         "lib/net6.0/Common.Libraries.EventBus.dll"
       ]
@@ -503,7 +503,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Common.Libraries.EventBus >= 1.1.1",
+      "Common.Libraries.EventBus >= 1.1.2",
       "Confluent.Kafka >= 2.0.2",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
@@ -514,7 +514,7 @@
     "C:\\Users\\msasa.l\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "restore": {
       "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.Kafka\\Common.Libraries.EventBus.Kafka.csproj",
       "projectName": "Common.Libraries.EventBus.Kafka",
@@ -553,7 +553,7 @@
         "dependencies": {
           "Common.Libraries.EventBus": {
             "target": "Package",
-            "version": "[1.1.1, )"
+            "version": "[1.1.2, )"
           },
           "Confluent.Kafka": {
             "target": "Package",

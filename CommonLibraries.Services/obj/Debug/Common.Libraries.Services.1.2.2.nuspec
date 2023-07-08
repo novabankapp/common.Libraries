@@ -3,8 +3,9 @@
   <metadata>
     <id>Common.Libraries.Services</id>
     <version>1.2.2</version>
-    <authors>Common.Libraries.Services</authors>
-    <description>Package Description</description>
+    <authors>Lewis Msasa</authors>
+    <description>For common services</description>
+    <repository url="https://github.com/novabankapp/common.Libraries" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />

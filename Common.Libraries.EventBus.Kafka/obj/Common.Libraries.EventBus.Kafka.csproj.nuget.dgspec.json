@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.Kafka\\Common.Libraries.EventBus.Kafka.csproj": {
-      "version": "1.1.4",
+      "version": "1.1.5",
       "restore": {
         "projectUniqueName": "C:\\Users\\msasa.l\\source\\repos\\Common.Libraries\\Common.Libraries.EventBus.Kafka\\Common.Libraries.EventBus.Kafka.csproj",
         "projectName": "Common.Libraries.EventBus.Kafka",
@@ -44,7 +44,7 @@
           "dependencies": {
             "Common.Libraries.EventBus": {
               "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "[1.1.2, )"
             },
             "Confluent.Kafka": {
               "target": "Package",
